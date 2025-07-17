@@ -8,14 +8,14 @@ body {
   font-family: 'arial';
 }
 
-/* Responsividade para TODAS as imagens */
+
 img {
   max-width: 100%;
   height: auto;
   display: block;
 }
 
-/* Conteúdo centralizado no cabeçalho */
+
 .header-inner-content {
   max-width: 1300px;
   margin-left: auto;
@@ -234,7 +234,7 @@ nav ul li {
   color: white;
 }
 
-/* ✅ Responsividade para telas menores */
+
 @media (max-width: 768px) {
   .cols-4,
   .cols-5 {
@@ -307,7 +307,7 @@ nav ul li {
   color: #ccc;
 }
 
-/* Estilo do botão no tema claro */
+
 button {
   background-color: #0084ff;
   border: none;
